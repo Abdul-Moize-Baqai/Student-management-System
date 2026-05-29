@@ -1,5 +1,5 @@
 README.txt
-Student Management System - Assignment 2
+Student Management System 
 Submitted by: Abdul Moize Baqai
 
 ================================================================
