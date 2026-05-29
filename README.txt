@@ -1,7 +1,5 @@
 README.txt
 Student Management System 
-Submitted by: Abdul Moize Baqai
-
 ================================================================
 How to Run the System
 ================================================================
